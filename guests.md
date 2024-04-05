@@ -15,3 +15,4 @@
 | Julian            | 3             |
 | Maxibon           | 5 	        |
 | Waron             | 3             |
+| Rowan             | 1             |
